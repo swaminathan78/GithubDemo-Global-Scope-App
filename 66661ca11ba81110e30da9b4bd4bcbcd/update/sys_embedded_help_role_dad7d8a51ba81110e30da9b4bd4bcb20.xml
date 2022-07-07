@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="u_test_user" name="u_test_user">cad750651ba81110e30da9b4bd4bcb82</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-07 06:00:42</sys_created_on>
+        <sys_id>dad7d8a51ba81110e30da9b4bd4bcb20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cad750651ba81110e30da9b4bd4bcb82</sys_name>
+        <sys_package display_value="Demo Github" source="66661ca11ba81110e30da9b4bd4bcbcd">66661ca11ba81110e30da9b4bd4bcbcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Github">66661ca11ba81110e30da9b4bd4bcbcd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dad7d8a51ba81110e30da9b4bd4bcb20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-07 06:00:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
