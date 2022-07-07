@@ -54,7 +54,7 @@ jobs:
           # Default: false
           autoUpgradeBaseApp: true
         env:
-          nowUsername: ${{ secrets.NOW_USERNAME }}
-          nowPassword: ${{ secrets.NOW_PASSWORD }}
+          nowUsername: ${{ secrets.TARGET_USERNAME }}
+          nowPassword: ${{ secrets.TARGET_PASSWORD }}
           nowInstallInstance: ${{ secrets.NOW_INSTALL_INSTANCE }}
           appSysID: ${{ secrets.APP_SYS_ID }}
